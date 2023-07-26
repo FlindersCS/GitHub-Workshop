@@ -6,4 +6,6 @@
 
 This is not a quote, it is the truth. You can see the proof [here](https://amiibots-stats-tool.com/)
 
+He's lucky he's a good bloke otherwise.
+
 How secret is the secret code? Shouldn't be pushed to GitHub but its `FUCS_SECRET_9853`
