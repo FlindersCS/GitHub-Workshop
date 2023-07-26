@@ -16,3 +16,9 @@ Since the markdown sheet mentions the works of the immortal intellectual beacon 
 
 and finally, a bonus Linus judging these submissions like he judges 40XX series NVidia cards
 ![Linus Tech Tips](https://i.kym-cdn.com/entries/icons/facebook/000/032/558/temp6.jpg)
+
+cheeky final addition:
+
+# Secret Code (Shhh, don't commit to GitHub)
+
+FUCS_SECRET_9853
